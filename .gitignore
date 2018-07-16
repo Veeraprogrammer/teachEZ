@@ -1,0 +1,6 @@
+env.sh
+.idea/
+node_modules/
+.DS_Store
+uploads/
+client/node_modules/
